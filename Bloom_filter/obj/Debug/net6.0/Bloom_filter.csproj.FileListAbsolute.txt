@@ -1,0 +1,15 @@
+/Users/test/Projects/Bloom_filter/Bloom_filter/bin/Debug/net6.0/Bloom_filter
+/Users/test/Projects/Bloom_filter/Bloom_filter/bin/Debug/net6.0/Bloom_filter.deps.json
+/Users/test/Projects/Bloom_filter/Bloom_filter/bin/Debug/net6.0/Bloom_filter.runtimeconfig.json
+/Users/test/Projects/Bloom_filter/Bloom_filter/bin/Debug/net6.0/Bloom_filter.dll
+/Users/test/Projects/Bloom_filter/Bloom_filter/bin/Debug/net6.0/Bloom_filter.pdb
+/Users/test/Projects/Bloom_filter/Bloom_filter/obj/Debug/net6.0/Bloom_filter.csproj.AssemblyReference.cache
+/Users/test/Projects/Bloom_filter/Bloom_filter/obj/Debug/net6.0/Bloom_filter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Projects/Bloom_filter/Bloom_filter/obj/Debug/net6.0/Bloom_filter.AssemblyInfoInputs.cache
+/Users/test/Projects/Bloom_filter/Bloom_filter/obj/Debug/net6.0/Bloom_filter.AssemblyInfo.cs
+/Users/test/Projects/Bloom_filter/Bloom_filter/obj/Debug/net6.0/Bloom_filter.csproj.CoreCompileInputs.cache
+/Users/test/Projects/Bloom_filter/Bloom_filter/obj/Debug/net6.0/Bloom_filter.dll
+/Users/test/Projects/Bloom_filter/Bloom_filter/obj/Debug/net6.0/refint/Bloom_filter.dll
+/Users/test/Projects/Bloom_filter/Bloom_filter/obj/Debug/net6.0/Bloom_filter.pdb
+/Users/test/Projects/Bloom_filter/Bloom_filter/obj/Debug/net6.0/Bloom_filter.genruntimeconfig.cache
+/Users/test/Projects/Bloom_filter/Bloom_filter/obj/Debug/net6.0/ref/Bloom_filter.dll
